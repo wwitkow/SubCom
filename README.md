@@ -1,4 +1,5 @@
-# SubCom v1.0 (SUBsidence due to COMpaction of Aquifers version 1.0)
+# SubCom v1.0 
+#(SUBsidence due to COMpaction of Aquifers version 1.0)
 
 1. General information.
 
