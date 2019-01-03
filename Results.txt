@@ -1,0 +1,4 @@
+Value of compaction coefficient (Cm [MPa-1]) with standard deviation:	 0.0008079614   +/- 0.0000076807 
+Value of influence coefficient (tgB [-]) with standard deviation:	 0.47   +/- 0.05 
+ 
+Value of correlation (R [-]): 	 -0.77 
