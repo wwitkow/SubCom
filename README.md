@@ -11,6 +11,7 @@ Program solved the inverse problem and calculated: compaction coefficient Cm of 
 and parameter tgB, which characterizes the properties of the overburden.
 
 2. Ho to use?
+    
     a. Run the 'SubCom_v1_0.sce' script (recommended Scilab v5.5.2).The GUI will be displayed.
 	
     b. In main windows program set the path to Aquifer and Profile information. Set also the initial 
