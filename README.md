@@ -1,10 +1,7 @@
 # SubCom v1.0 (SUBsidence due to COMpaction of Aquifers version 1.0)
 
-Title: Determining model parameters for the compaction reservoir based on the least square method
-Authors: Wojciech T. Witkowski, Ryszard Hejmanowski
-Journal: Computers and Geosciences
-
 1. General information.
+
 SubCom v1.0 program was implemented in the Scilab environment (version 5.5.2). It can be used for 
 determining model parameters of compaction layers (example in oil, gas or groundwater extraction). 
 Program solved the inverse problem and calculated: compaction coefficient Cm of reservoir rocks mass 
