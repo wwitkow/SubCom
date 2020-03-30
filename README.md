@@ -26,4 +26,4 @@ least square method will be calculated and the result will be presented systemat
 The result will be ploted with empirical profile.
 
 Contact and Information: Wojciech Witkowski (e-mail: wwitkow@agh.edu.pl) for questions regadring 
-the Scialab codes.
+the Scialab codes. 
