@@ -1,8 +1,6 @@
 SubCom v1.0 (SUBsidence due to COMpaction of Aquifers version 1.0)
 
-Title: Software for Estimation of Stochastic Model Parameters for a Compacting Reservoir
-Authors: Wojciech T. Witkowski, Ryszard Hejmanowski
-Journal: Applied Sciences
+Witkowski, W.T.; Hejmanowski, R. Software for Estimation of Stochastic Model Parameters for a Compacting Reservoir. Appl. Sci. 2020, 10, 3287. 
 
 1. General information.
 SubCom v1.0 program was implemented in the Scilab environment (version 5.5.2). It can be used for 
